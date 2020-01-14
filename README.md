@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 Local GWAMM:
-![GWAMM](https://drive.google.com/file/d/1zuzLvWO1fTcBWswMNLhkIf4u0ZM180Ez/view?usp=sharing)
+![GWAMM](https://github.com/Turtle7ime/home_dbms/blob/master/gw005.jpg?raw=true)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
