@@ -26,6 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+Local GWAMM:
+![GWAMM](https://drive.google.com/file/d/1zuzLvWO1fTcBWswMNLhkIf4u0ZM180Ez/view?usp=sharing)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
