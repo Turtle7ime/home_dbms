@@ -1,5 +1,3 @@
-from . import re
-from . import data_type_conversions
 import sqlite3 as sql
 from .record import time_all_class_methods
 
