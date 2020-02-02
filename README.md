@@ -1,40 +1,16 @@
-## Welcome to GitHub Pages
+# home_dbms
+## Purpose
+1. Practice moving and saving class instance attributes into a sqlite database.
+2. Creating new instances of classes with the saved attributes in a sqlite database.
+## Scope
+## Requirements
+* Python 3
+### Environment Modules
+See [requirements.txt](./requirements.txt)
+## Local Modules
+* [modules](./modules)
+* [modules outline](./notes/outline.md)
 
-You can use the [editor on GitHub](https://github.com/Turtle7ime/home_dbms/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+## Images
 Local GWAMM:
 ![GWAMM](https://github.com/Turtle7ime/home_dbms/blob/master/gw005.jpg?raw=true)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Turtle7ime/home_dbms/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
